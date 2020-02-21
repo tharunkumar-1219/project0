@@ -1,7 +1,0 @@
-<tr>
-	<td>abuse</td>
-	<td>abused</td>
-	<td>abused</td>
-	<td>abusing</td>
-	<td></td>
-</tr>
